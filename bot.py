@@ -1,5 +1,5 @@
 
-import time
+https://discord.com/api/oauth2/authorize?client_id=1166479546409832573&permissions=8&scope=botimport time
 import os
 import discord_slash.utils.manage_commands
 import requests
